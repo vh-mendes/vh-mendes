@@ -17,7 +17,7 @@
 - Meu primeiro contato com a programação foi em um curso técnico de informática.
 - Atuo como analista de suporte do ERP Protheus, utilizando minhas habilidades em SQL para manipular e gerenciar os dados. 
 - Meu foco é a experiência do usuário, tenho interesse especial em desenvolvimento front-end, buscando aplicar conceitos de design e usabilidade. 
-- Além da área de TI, sou designer gráfico  e gosto de criar as mídias sociais de empresas, tanto como impressões: adesivos, cartões, faixadas.
+- Além da área de TI, também atuo com comunicação visual e design gráfico. Crio artes para mídias sociais e materiais impressos: flyers, adesivos, cartões de visita, fachadas, wind banners e outros.
 
 <br>
 
