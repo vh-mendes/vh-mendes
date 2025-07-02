@@ -45,7 +45,7 @@
 
 ## 📂 Projetos Destacados
 -  [Sistema de Lista de Compras (React + Vite)](https://github.com/vh-mendes/shoppingList)
--  [Site institucional em produção (React + Vite)]((https://resetprata.com.br/)
+-  [Site institucional em produção (React + Vite)](https://resetprata.com.br/)
 -  [Clínica de Fisioterapia FullStack (PHP, JS, HTML, CSS)](https://github.com/vh-mendes/clinicMotivare)
 -  [Calculadora de Tranca Odd (React + Vite)](https://calculadora-de-tranca.vercel.app/)
 
