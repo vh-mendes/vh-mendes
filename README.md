@@ -25,7 +25,7 @@
 ## 🛠️ Tecnologias que já tive experiências e uso no meu dia a dia:
 
 <div style="display: inline_block, align-items:center" ><br/>
-    <img align= "center" alt= "column-icons-1" src="https://skillicons.dev/icons?i=html,css,js,php,ts" />
+    <img align= "center" alt= "column-icons-1" src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
     <br> <br>   
      <img align= "center" alt= "column-icons-2" src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,postman,docker,git" /> 
      <br> <br>   
