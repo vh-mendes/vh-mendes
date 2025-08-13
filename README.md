@@ -38,6 +38,7 @@
 
 ## 📂 Projetos Destacados
 -  [Site institucional para Reset Tech (React + Vite)](https://resetprata.com.br/)
+-  [E-commerce Bewear (React + Next.js + Node.js)](https://bootcamp-bewear.vercel.app/)
 -  [Sistema de Lista de Compras (React + Vite)](https://github.com/vh-mendes/shoppingList)
 -  [Clínica de Fisioterapia FullStack (PHP, JS, HTML, CSS)](https://github.com/vh-mendes/clinicMotivare)
 -  [Calculadora de Tranca Odd (React + Vite)](https://calculadora-de-tranca.vercel.app/)
