@@ -1,15 +1,5 @@
 # Olá! Eu sou o Vítor Hugo Mendes, um entusiasta da tecnologia ✌🏼 
 
-<div  align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vh-mendes&hide_progress=true)
-
-
-</div>
-
-
-
-
 ## 👨🏻‍💻 Sobre mim:
 
 - Tenho 20 anos de idade. 
