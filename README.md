@@ -1,4 +1,4 @@
-# Olá! Eu sou o Vítor Hugo Mendes, um entusiasta da tecnologia ✌🏼 
+# Olá! Eu sou o Vítor Hugo Mendes ✌🏼 
 
 ## 👨🏻‍💻 Sobre mim:
 
