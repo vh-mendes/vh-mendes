@@ -5,9 +5,9 @@
 - Tenho 20 anos de idade. 
 
 - Atualmente cursando o último semestre de Análise e Desenvolvimento de Sistemas.
-- Meu primeiro contato com a programação foi em um curso técnico de informática.
+- Meu primeiro contato com a programação foi em um curso técnico de Informática.
 - Atuo como analista de sistemas do ERP Protheus, utilizando minhas habilidades em SQL para manipular e gerenciar os dados. 
-- Atuo no desenvolvimento de novas funcionalidades e customizações no ERP, utilizando: TLPP/ADVPL juntamente com Angular e PO UI, alinhando as soluções às necessidades dos usuários e aos objetivos do negócio. 
+- Atuo no desenvolvimento de novas funcionalidades e customizações no ERP, utilizando TLPP/ADVPL juntamente com Angular e PO UI, alinhando as soluções às necessidades dos usuários e aos objetivos do negócio. 
 - Meu foco é a experiência do usuário, tenho interesse especial em desenvolvimento front-end, buscando aplicar conceitos de design e usabilidade. 
 - Além da área de TI, também atuo com comunicação visual e design gráfico. Crio artes para mídias sociais e materiais impressos: flyers, adesivos, cartões de visita, fachadas, wind banners e outros.
 
