@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 Sobre mim:
 
-- Tenho 20 anos de idade. 
+- Tenho 21 anos de idade. 
 
 - Atualmente cursando o último semestre de Análise e Desenvolvimento de Sistemas.
 - Meu primeiro contato com a programação foi em um curso técnico de Informática.
@@ -18,7 +18,7 @@
 <div style="display: inline_block, align-items:center" ><br/>
     <img align= "center" alt= "column-icons-1" src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
     <br> <br>   
-     <img align= "center" alt= "column-icons-2" src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,postman,docker,git" /> 
+     <img align= "center" alt= "column-icons-2" src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,nest,postman,docker,git" /> 
      <br> <br>   
     <img align= "center" alt= "column-icons-2" src="https://skillicons.dev/icons?i=ps,figma,ai" />
     <br><br>
