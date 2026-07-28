@@ -2,14 +2,11 @@
 
 ## 👨🏻‍💻 Sobre mim:
 
-- Tenho 21 anos de idade. 
+Sou graduado em Análise e Desenvolvimento de Sistemas e atualmente pós-graduando em Engenharia de Software.
 
-- Atualmente cursando o último semestre de Análise e Desenvolvimento de Sistemas.
-- Meu primeiro contato com a programação foi em um curso técnico de Informática.
-- Atuo como analista de sistemas do ERP Protheus.
-- Atuo no desenvolvimento de novas funcionalidades e customizações no ERP, utilizando TLPP/ADVPL juntamente com Angular e PO UI. 
-- Meu foco é a experiência do usuário, tenho interesse especial em desenvolvimento front-end, buscando aplicar conceitos de design e usabilidade. 
-- Além da área de TI, também atuo com comunicação visual e design gráfico. Crio artes para mídias sociais e materiais impressos: flyers, adesivos, cartões de visita, fachadas, wind banners e outros.
+Tenho experiência no desenvolvimento de aplicações corporativas, atuando na criação de soluções, integração de sistemas e desenvolvimento de interfaces modernas. Atualmente trabalho com o ecossistema TOTVS Protheus, utilizando TLPP/ADVPL, Angular e PO UI para desenvolver novas funcionalidades e evoluir sistemas utilizados diariamente por centenas de usuários.
+
+Estou sempre estudando novas tecnologias, boas práticas de desenvolvimento, arquitetura e engenharia de software com o objetivo de evoluir continuamente como desenvolvedor. 
 
 <br>
 
@@ -18,7 +15,7 @@
 <div style="display: inline_block, align-items:center" ><br/>
     <img align= "center" alt= "column-icons-1" src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
     <br> <br>   
-     <img align= "center" alt= "column-icons-2" src="https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,nest,postman,docker,git" /> 
+     <img align= "center" alt= "column-icons-2" src="https://skillicons.dev/icons?i=react,angular,nodejs,nextjs,tailwind,nest,postman,docker,git" /> 
      <br> <br>   
     <img align= "center" alt= "column-icons-2" src="https://skillicons.dev/icons?i=ps,figma,ai" />
     <br><br>
