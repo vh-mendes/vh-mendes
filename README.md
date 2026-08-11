@@ -15,7 +15,9 @@ Estou sempre estudando novas tecnologias, boas práticas de desenvolvimento, arq
 <div style="display: inline_block, align-items:center" ><br/>
     <img align= "center" alt= "column-icons-1" src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
     <br> <br>   
-     <img align= "center" alt= "column-icons-2" src="https://skillicons.dev/icons?i=react,angular,nodejs,nextjs,tailwind,nest,postman,docker,git" /> 
+     <img align= "center" alt= "column-icons-2" src="https://skillicons.dev/icons?i=react,angular,nodejs,nextjs,tailwind,nest" /> 
+     <br> <br>   
+        <img align= "center" alt= "column-icons-2" src="https://skillicons.dev/icons?i=postman,docker,git" /> 
      <br> <br>   
     <img align= "center" alt= "column-icons-2" src="https://skillicons.dev/icons?i=ps,figma,ai" />
     <br><br>
