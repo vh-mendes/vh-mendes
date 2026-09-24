@@ -13,11 +13,11 @@ Estou sempre estudando novas tecnologias, boas práticas de desenvolvimento, arq
 ## 🛠️ Tecnologias que já tive experiências e uso no meu dia a dia:
 
 <div style="display: inline_block, align-items:center" ><br/>
-    <img align= "center" alt= "column-icons-1" src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
+    <img align= "center" alt= "column-icons-1" src="https://skillicons.dev/icons?i=html,css,js,ts,php&theme=light" />
     <br> <br>   
      <img align= "center" alt= "column-icons-2" src="https://skillicons.dev/icons?i=react,angular,nodejs,nextjs,tailwind,nest" /> 
      <br> <br>   
-        <img align= "center" alt= "column-icons-2" src="https://skillicons.dev/icons?i=postman,docker,git" /> 
+        <img align= "center" alt= "column-icons-2" src="https://skillicons.dev/icons?i=postman,docker,git,github," /> 
      <br> <br>   
     <img align= "center" alt= "column-icons-2" src="https://skillicons.dev/icons?i=ps,figma,ai" />
     <br><br>
@@ -26,6 +26,7 @@ Estou sempre estudando novas tecnologias, boas práticas de desenvolvimento, arq
 <br>
 
 ## 📂 Projetos Destacados
+-  [Wallet Fin — Gestão financeira com IA no WhatsApp (NestJS + React Native + Next.js)](https://www.walletfin.com.br/)
 -  [E-Commerce Bewear (Mobile First) (React + Next.js + Node.js)](https://github.com/vh-mendes/bewear)
 -  [FootRewind - Reviva finais histórias do futebol (React + Next.js)](https://foot-rewind.vercel.app/pt)
 -  [Catálogo digital para 00Pratas (React + Next.js)](https://00pratas-catalog.vercel.app/)
