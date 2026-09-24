@@ -13,7 +13,7 @@ Estou sempre estudando novas tecnologias, boas práticas de desenvolvimento, arq
 ## 🛠️ Tecnologias que já tive experiências e uso no meu dia a dia:
 
 <div style="display: inline_block, align-items:center" ><br/>
-    <img align= "center" alt= "column-icons-1" src="https://skillicons.dev/icons?i=html,css,js,ts,php&theme=light" />
+    <img align= "center" alt= "column-icons-1" src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
     <br> <br>   
      <img align= "center" alt= "column-icons-2" src="https://skillicons.dev/icons?i=react,angular,nodejs,nextjs,tailwind,nest" /> 
      <br> <br>   
